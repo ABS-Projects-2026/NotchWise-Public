@@ -5,7 +5,7 @@
 <h1 align="center">NotchWise</h1>
 
 <p align="center">
-  Ambient spaced repetition flashcards for macOS — review cards in the notch without leaving your workflow.
+  Ambient spaced repetition flashcards for macOS: review cards in the notch without leaving your workflow.
 </p>
 
 <p align="center">
